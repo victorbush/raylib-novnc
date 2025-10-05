@@ -1,0 +1,6 @@
+{
+    "cmake.buildTask": true,
+    "editor.formatOnSave": true,
+    "clangd.path": "/usr/bin/clangd",
+    "C_Cpp.intelliSenseEngine": "disabled" // Conflicts with clangd
+}
