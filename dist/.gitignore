@@ -1,6 +1,9 @@
 # Ignore everything in this directory (output executable lands here)
 *
 
+# Don't ignore the gitignore
+!.gitignore
+
 # Except the assets directory and its contents
 !assets/
 !assets/**
