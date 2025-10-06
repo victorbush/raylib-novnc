@@ -76,7 +76,7 @@ int main()
     camera.zoom = 1.0f;
 
     // Load cat texture
-    catTexture = LoadTexture("../assets/cat.png");
+    catTexture = LoadTexture("assets/cat.png");
     if (!catTexture.id)
         throw new runtime_error("Failed to load cat texture.");
 

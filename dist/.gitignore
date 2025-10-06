@@ -1,7 +1,6 @@
-*.exe
-*.ilk
-*.pdb
-*.html
-*.js
-*.wasm
-*.data
+# Ignore everything in this directory (output executable lands here)
+*
+
+# Except the assets directory and its contents
+!assets/
+!assets/**
