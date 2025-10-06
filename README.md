@@ -23,3 +23,5 @@ Open the **Ports** tab and click the button to open in a browser.
 ![](docs/img/ports.png)
 
 This should load the noVNC page. You should be able to connect to the VNC server inside the container and see the running application.
+
+You can also choose to open the page in the preview window within VS Code.
