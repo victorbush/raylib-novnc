@@ -1,7 +1,7 @@
 {
     "cmake.buildTask": true,
     "editor.formatOnSave": true,
-    "editor.renderWhitespace": "boundary",
+    "editor.renderWhitespace": "all",
     "clangd.path": "/usr/bin/clangd",
     "C_Cpp.intelliSenseEngine": "disabled" // Conflicts with clangd
 }
